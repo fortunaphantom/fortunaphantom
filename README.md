@@ -2,18 +2,18 @@
   𝐇𝐞𝐥𝐥𝐨, It's James!
   
   <br />
-  <img src="https://profile-counter.glitch.me/infiniteaengus/count.svg" />
+  <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
   <br />
   <div align=center>
   
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=infiniteaengus&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=fortunaphantom&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
   
-  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=infiniteaengus&theme=merko" />
+  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=fortunaphantom&theme=merko" />
   
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/infiniteaengus)
+  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/fortunaphantom)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.b1620422bf2f1a5a)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin/in/james-bell-468a16239/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://infiniteaengus.github.io/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://fortunaphantom.github.io/)
   </div>
 
 </h1>
@@ -23,7 +23,7 @@
 
 <a target="_blank">
   
-  <img align="right" height="200" width="300" alt="GIF" src="https://github.com/infiniteaengus/github-profile/blob/master/coder.gif">
+  <img align="right" height="200" width="300" alt="GIF" src="https://github.com/fortunaphantom/github-profile/blob/master/coder.gif">
 
 </a>
 
