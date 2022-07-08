@@ -1,5 +1,5 @@
 <h1 align="center">
-  Sonny, a Senior Software Engineer
+  This is Sonny Tanaka, a Senior Software Engineer
   
   <br />
   <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
