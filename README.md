@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, It's James!
+  Sonny, a Senior Software Engineer
   
   <br />
   <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
@@ -10,9 +10,9 @@
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=fortunaphantom&theme=merko" />
   
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/fortunaphantom)
-  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.b1620422bf2f1a5a)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin/in/james-bell-468a16239/)
+  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/athontana)
+  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.f8b5c8918fb2afba)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sun-tana-6b2189236/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://fortunaphantom.github.io/)
   </div>
 
@@ -27,9 +27,9 @@
 
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** 𝚊𝚗𝚍 **Full-stack** developer
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain (Architecture & Smart Contracts)** 𝚊𝚗𝚍 **Full-stack** developer
 - 🤔 I’m looking to collaborate on anything!
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://linkedin/in/james-bell-468a16239/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/sun-tana-6b2189236/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 <br/>
 
