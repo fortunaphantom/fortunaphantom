@@ -1,5 +1,5 @@
 <h1 align="center">
-  <h1> This is a Senior Software Engineer </h1>
+  <h2> This is a Senior Software Engineer </h2>
   <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
   <br />
   <div align=center>
