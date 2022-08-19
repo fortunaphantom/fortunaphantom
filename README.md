@@ -1,7 +1,4 @@
 <h1 align="center">
-  This is Sonny Tanaka, a Senior Software Engineer
-  
-  <br />
   <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
   <br />
   <div align=center>
