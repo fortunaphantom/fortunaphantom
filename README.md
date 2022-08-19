@@ -7,9 +7,9 @@
   <br />
   <div align=center>
   
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=fortunaphantom&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+    <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=fortunaphantom&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
   
-  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=fortunaphantom&theme=merko" />
+    <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=fortunaphantom&theme=merko" />
   </div>
 
 </h1>
@@ -22,10 +22,6 @@
   <img align="right" height="200" width="300" alt="GIF" src="https://github.com/fortunaphantom/github-profile/blob/master/coder.gif">
 
 </a>
-
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain (Architecture & Smart Contracts)** 𝚊𝚗𝚍 **Full-stack** developer
-- 🤔 I’m looking to collaborate on anything!
-
 <br/>
 
 #
