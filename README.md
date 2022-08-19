@@ -1,5 +1,5 @@
 <h1 align="center">
-  This is a Senior Software Engineer
+  This is Sonny Tanaka, a Senior Software Engineer
   
   <br />
   <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
@@ -10,7 +10,10 @@
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=fortunaphantom&theme=merko" />
   
-
+  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)]()
+  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)]()
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)]()
   </div>
 
 </h1>
