@@ -1,9 +1,9 @@
 <h1 align="center">
-  <p align="center" style="font-size: 16px">
+  <h3 align="center" style="font-size: 16px">
     I am a highly efficient and reliable professional who possesses a broad skill set for software development. Over the past 7 years, I have participated in many projects and have played an important role in solving business & technical problems.
     <br/>
     I love exceeding expectations and providing the highest value possible. Most times I am allotted freedom to implement new ideas- which ultimately prove to be effective.
-  </p>
+  </h3>
   
   <br />
   <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
