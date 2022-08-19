@@ -1,17 +1,15 @@
 <h1 align="center">
-  <h2 align="center"> This is a Senior Software Engineer </h2>
-  <img align="center" src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
+  
+  <div align=center>
+    <h2 align="center"> This is a Senior Software Engineer </h2>
+    <img align="center" src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
+  </div>
   <br />
   <div align=center>
   
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=fortunaphantom&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=fortunaphantom&theme=merko" />
-  
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/athontana)
-  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.f8b5c8918fb2afba)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sun-tana-6b2189236/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://fortunaphantom.github.io/)
   </div>
 
 </h1>
@@ -27,7 +25,6 @@
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain (Architecture & Smart Contracts)** 𝚊𝚗𝚍 **Full-stack** developer
 - 🤔 I’m looking to collaborate on anything!
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/sun-tana-6b2189236/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 <br/>
 
