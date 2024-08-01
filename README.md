@@ -1,45 +1,46 @@
-<h1 align="center">
-  <h3 align="center" style="font-size: 16px">
-    I am a highly efficient and reliable professional who possesses a broad skill set for software development. Over the past 7 years, I have participated in many projects and have played an important role in solving business & technical problems.
+<div class="display: flex; flex-direction: column; width: 100%;">
+  <div style="font-size: 16px">
+    I am a highly efficient and reliable professional who possesses a broad skill set for software development. Over the past 10 years, I have participated in many projects and have played an important role in solving business & technical problems.
     <br/>
     I love exceeding expectations and providing the highest value possible. Most times I am allotted freedom to implement new ideas- which ultimately prove to be effective.
-  </h3>
-  
-  <br />
-  <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
-  <br />
-  <div align=center>
-  
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=fortunaphantom&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
-  
-  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=fortunaphantom&theme=merko" />
-  
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)]()
-  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)]()
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
-  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)]()
   </div>
-
-</h1>
-
-<br/>
-<br/>
-
-<a target="_blank">
   
-  <img align="right" height="200" width="300" alt="GIF" src="https://github.com/fortunaphantom/github-profile/blob/master/coder.gif">
-
-</a>
-
-<br/>
+  <div style="display: flex; justify-content: center; align-items: center; margin-top: 12px;">
+    <div style="font-size: 16px;">Visit count:</div>
+    <img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin-top: 12px;">
+  
+    <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=fortunaphantom&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+    
+    <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=fortunaphantom&theme=merko" />
+  
+    [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)]()
+    [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)]()
+    [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+    [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)]()
+  </div>
+</div>
 
 #
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
 
 <p align="left">   
+  <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" title="bitcoin" alt="bitcoin" width="40" height="40"/> 
+  </a>
+  <a href="https://etherscan.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhmQk7gPByEEfQ_aKq-sSH3xmvS9IxkIT0Q&s" title="ethereum" alt="ethereum" width="40" height="40"/> 
+  </a>
+  <a href="https://polygonscan.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://logowik.com/content/uploads/images/polygon-matic-icon3725.logowik.com.webp" title="polygon" alt="polygon" width="50" height="40"/> 
+  </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkUowI-k1iZNL9Cn7-F7qQgfh2qo-Y6hXQw&s" title="solidity" alt="solidity" width="30" height="40"/> 
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6AskqlLIZc0zQiKHfaAo8pJnea0HYr5MYA&s" alt="django" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -99,7 +100,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhoVwuJmtF1Lu4t9WcsZ7fESV9KdIQ7pVHw&s" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -148,9 +149,6 @@
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
 </p>
 <br/>
