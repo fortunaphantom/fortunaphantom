@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Lead Software Engineer (AI, Blockchain, Full Stack)</h1>
 <h3 align="center">A passionate software engineer that brings idea to the products</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fortunaphantom&label=Profile%20views&color=0e75b6&style=flat" alt="fortunaphantom" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fortunaphantom" alt="fortunaphantom" /></a> </p>
 
 - 🔭 I’m currently working on **Casino game products, LangChain products**
